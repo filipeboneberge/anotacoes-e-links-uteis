@@ -7,7 +7,7 @@ Pseudolimguagem que permite desenvolver algoritmos estruturados em Português de
 #### 🔗 Links materiais complementares
  - Variáveis
  - Constantes
- - Tipo de dados
+ - Tipos de dados
  - Operadores aritméticos
  - Expressão aritmética
  - Expressões literais
