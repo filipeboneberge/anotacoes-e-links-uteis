@@ -5,9 +5,9 @@
 Pseudolimguagem que permite desenvolver algoritmos estruturados em Português de forma simples e intuitiva, independente da linguagem de programação.
 
 #### 🔗 Links materiais complementares
- - Variáveis
- - Constantes
- - Tipos de dados
+ - [Variáveis](./variaveis/variaveis.md)
+ - [Constantes](./constantes/constantes.md)
+ - [Tipos de dados](./tipos-de-dados/tipos-de-dados.md)
  - Operadores aritméticos
  - Expressão aritmética
  - Expressões literais
