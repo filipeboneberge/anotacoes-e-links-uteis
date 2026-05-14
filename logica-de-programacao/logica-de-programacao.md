@@ -8,9 +8,9 @@ Pseudolimguagem que permite desenvolver algoritmos estruturados em Português de
  - [Variáveis](./variaveis/variaveis.md)
  - [Constantes](./constantes/constantes.md)
  - [Tipos de dados](./tipos-de-dados/tipos-de-dados.md)
- - Operadores aritméticos
- - Expressão aritmética
- - Expressões literais
+ - [Operadores aritméticos](./operadores-aritmeticos/operadores-aritmeticos.md)
+ - [Expressão aritmética](./expressao-aritmetica/expressao-aritmetica.md)
+ - [Expressões literais](./expressoes-literais/expressoes-literais.md)
  - Operadores de comparação ou lógico
  - Concatenação
  - Tomada de decisão
