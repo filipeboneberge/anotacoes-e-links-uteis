@@ -16,7 +16,7 @@ Pseudolimguagem que permite desenvolver algoritmos estruturados em Português de
  - [Tomada de decisão](./tomada-de-decisao/tomada-de-decisao.md)
  - [Estrutura de repetição](./estrutura-de-repeticao/estrutura-de-repeticao.md)
  - [Comentários](./comentarios/comentarios.md)
- - [Matriz e Vetores](./matriz-e-vetores/matriz-e-vetores.md)
+ - [Matriz e Vetores](./matriz-e-vetor/matriz-e-vetor.md)
 
 
 #### 🔗 Links para estudar lógica de programação
