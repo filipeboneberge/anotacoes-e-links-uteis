@@ -14,9 +14,9 @@ Pseudolimguagem que permite desenvolver algoritmos estruturados em Português de
  - [Operadores de comparação ou lógico](./operadores-de-comparacao-ou-logico/operadores-de-comparacao-ou-logico.md)
  - [Concatenação](./concatenacao/concatenacao.md)
  - [Tomada de decisão](./tomada-de-decisao/tomada-de-decisao.md)
- - Estrutura de repetição
- - Comentários
- - Matriz e Vetores
+ - [Estrutura de repetição](./estrutura-de-repeticao/estrutura-de-repeticao.md)
+ - [Comentários](./comentarios/comentarios.md)
+ - [Matriz e Vetores](./matriz-e-vetores/matriz-e-vetores.md)
 
 
 #### 🔗 Links para estudar lógica de programação
